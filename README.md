@@ -33,6 +33,7 @@ Estudio DAM y vengo de sistemas: sé montar el equipo, configurar la red y despl
 | Idioma | Nivel |
 | --- | --- |
 | Español | Nativo |
+| Inglés | Intermedio (B1) |
 
 ## Contacto
 
