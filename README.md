@@ -34,14 +34,6 @@ Estudio DAM y vengo de sistemas: sé montar el equipo, configurar la red y despl
 | --- | --- |
 | Español | Nativo |
 
-## Proyectos
-
-| Proyecto | Descripción | Stack |
-| --- | --- | --- |
-| [DEIN](https://github.com/alain8123/DEIN) | Prácticas de desarrollo de interfaces de escritorio | `Java` |
-| [DEIN_TableViewSincrona_APT](https://github.com/alain8123/DEIN_TableViewSincrona_APT) | Aplicación enlazada a una base de datos, con tabla sincronizada | `Java` · `SQL` |
-| [TableView_Paunero_Alain](https://github.com/alain8123/TableView_Paunero_Alain) | Tabla de datos con modelo, filtros y edición | `Java` |
-
 ## Contacto
 
 <p>
