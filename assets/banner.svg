@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Alain Paunero, desarrollador de aplicaciones multiplataforma">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#12294b"/>
+      <stop offset="100%" stop-color="#3b1d6e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <circle cx="1080" cy="40" r="160" fill="#38bdf8" fill-opacity="0.08"/>
+  <circle cx="140" cy="300" r="130" fill="#a78bfa" fill-opacity="0.10"/>
+  <text x="70" y="112" font-family="Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="22" fill="#93c5fd" letter-spacing="5">HOLA, SOY</text>
+  <text x="68" y="184" font-family="Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="62" font-weight="700" fill="#ffffff">Alain Paunero</text>
+  <rect x="70" y="204" width="130" height="6" rx="3" fill="url(#accent)"/>
+  <text x="70" y="254" font-family="Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="23" fill="#cbd5e1">Desarrollador de Aplicaciones Multiplataforma</text>
+  <g font-family="Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="17" fill="#e2e8f0">
+    <rect x="700" y="120" width="104" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="752" y="143" text-anchor="middle">Kotlin</text>
+    <rect x="816" y="120" width="86" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="859" y="143" text-anchor="middle">Java</text>
+    <rect x="914" y="120" width="74" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="951" y="143" text-anchor="middle">C#</text>
+    <rect x="1000" y="120" width="114" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="1057" y="143" text-anchor="middle">Android</text>
+    <rect x="700" y="168" width="92" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="746" y="191" text-anchor="middle">Unity</text>
+    <rect x="804" y="168" width="70" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="839" y="191" text-anchor="middle">Git</text>
+    <rect x="886" y="168" width="72" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+    <text x="922" y="191" text-anchor="middle">SQL</text>
+  </g>
+</svg>
