@@ -12,7 +12,7 @@ Estudio DAM y vengo de sistemas: sé montar el equipo, configurar la red y despl
 
 - 🎓 Cursando el **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**, con el **Grado Medio en Sistemas Microinformáticos y Redes** ya terminado.
 - 💻 Escribo **Kotlin** para Android, **Java** para escritorio y bases de datos, y **C#** en Unity.
-- 🧰 Uso **Git** a diario y me manejo con entornos virtuales, emuladores y despliegues en dispositivo real.
+- 🧰 Uso **Git** a regularmente y me manejo con entornos virtuales, emuladores y despliegues en dispositivo real.
 - 🚧 Ahora mismo: **RunnersZ** (minijuego de descifrado en Unity), **CipherSprint** (cliente Android en Kotlin) y una **app de telemetría para moto** con Kotlin y Bluetooth.
 
 ## Skills
