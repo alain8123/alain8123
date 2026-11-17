@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg?v=2" alt="Alain Paunero — Desarrollador de Aplicaciones Multiplataforma" width="100%" />
+  <img src="assets/banner-v2.svg" alt="Alain Paunero — Desarrollador de Aplicaciones Multiplataforma" width="100%" />
 </div>
 
 # 👋 Hola, soy Alain Paunero
