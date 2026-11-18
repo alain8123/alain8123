@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner-v2.svg" alt="Alain Paunero — Desarrollador de Aplicaciones Multiplataforma" width="100%" />
+  <img src="assets/banner-v5-noche.gif" alt="Alain Paunero — Desarrollador de Aplicaciones Multiplataforma" width="100%" />
 </div>
 
 # 👋 Hola, soy Alain Paunero
@@ -43,9 +43,5 @@ Estudio DAM y vengo de sistemas: sé montar el equipo, configurar la red y despl
 </p>
 
 ---
-
-<div align="center">
-  <img src="assets/banner-v5-noche.gif" alt="Noche y montaña — Alain Paunero, desarrollador multiplataforma" width="100%" />
-</div>
 
 <sub>Abierto a prácticas y proyectos de desarrollo multiplataforma.</sub>
