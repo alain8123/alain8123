@@ -44,4 +44,8 @@ Estudio DAM y vengo de sistemas: sé montar el equipo, configurar la red y despl
 
 ---
 
+<div align="center">
+  <img src="assets/banner-v5-noche.gif" alt="Noche y montaña — Alain Paunero, desarrollador multiplataforma" width="100%" />
+</div>
+
 <sub>Abierto a prácticas y proyectos de desarrollo multiplataforma.</sub>
